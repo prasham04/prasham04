@@ -168,13 +168,22 @@ I'm an **AI/ML researcher and software engineer** interested in turning research
   <img src="https://img.shields.io/badge/LinkedIn-Prasham_Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
+
+<a href="https://leetcode.com/u/prasham_04/">
+  <img src="https://img.shields.io/badge/LeetCode-prasham__04-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+&nbsp;
+
 <a href="mailto:prashammehta04@gmail.com">
   <img src="https://img.shields.io/badge/Email-prashammehta04%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 &nbsp;
+
 <a href="https://github.com/prasham04">
   <img src="https://img.shields.io/badge/GitHub-prasham04-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
+</div>
 
 <br><br>
 
