@@ -7,9 +7,9 @@
 <!-- ==================== BANNER ==================== -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img alt="Prasham Mehta Banner" src="./assets/banner-dark.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assests/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assests/banner-light.png">
+  <img alt="Prasham Mehta Banner" src="./assests/banner-dark.png" width="100%">
 </picture>
 
 
