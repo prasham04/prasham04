@@ -5,9 +5,9 @@
 <!-- ==================== BANNER ==================== -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img src="./assets/banner-dark.png" width="100%" alt="Prasham Mehta Banner">
+  <source media="(prefers-color-scheme: dark)" srcset="./assests/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assests/banner-light.png">
+  <img src="./assests/banner-dark.png" width="100%" alt="Prasham Mehta Banner">
 </picture>
 
 <div align="center">
@@ -60,7 +60,7 @@ I'm an **AI/ML researcher and software engineer** interested in turning research
 </td>
 <td width="33%" align="center">
 
-<img src="./assets/profile.png" width="210" alt="Prasham Mehta">
+<img src="./assests/profile.png" width="210" alt="Prasham Mehta">
 
 <br>
 
