@@ -103,7 +103,7 @@ I'm an **AI/ML researcher and software engineer** interested in building intelli
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="./assets/profile.png"
+  src="./assests/profile.png"
   width="240"
   alt="Prasham Mehta"
 />
